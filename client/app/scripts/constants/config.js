@@ -1,0 +1,1 @@
+angular.module('myToDoApp').constant('Config', { serverUrl: "http://localhost:8080/hello" });
